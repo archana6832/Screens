@@ -1,0 +1,20 @@
+{
+  "name": "screens",
+  "version": "1.0.0",
+  "description": "Screens created using React",
+  "main": "src/index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "parcel src/index.html "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/archana6832/Screens.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/archana6832/Screens/issues"
+  },
+  "homepage": "https://github.com/archana6832/Screens#readme"
+}
